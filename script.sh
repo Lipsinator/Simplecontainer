@@ -9,7 +9,6 @@
 #
 #
 #
-clear
-echo -e "\e[32mStarting security application\e[0m"  
+echo Starting security application 
 
 
